@@ -1,4 +1,6 @@
 # 3box-activity
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F3box%2F3box-activity.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F3box%2F3box-activity?ref=badge_shield)
+
 
 **Warning:** This project is under active development, APIs are subject to change.
 
@@ -120,3 +122,7 @@ A `token transfer` object has the following structure:
     confirmations: '2270754'
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F3box%2F3box-activity.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F3box%2F3box-activity?ref=badge_large)
